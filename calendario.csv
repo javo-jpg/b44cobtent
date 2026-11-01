@@ -21,38 +21,71 @@ fecha,dia,hora,id,canal,tipo,carpeta
 2026-10-30,Vie 30,14:00,P06,Instagram,Carrusel Hecho en B44 · colaboración,2026-10/10-30_P06
 2026-10-30,Vie 30,20:00,T04,TikTok,Video 12 s · listo,2026-10/10-30_T04
 2026-10-31,Sáb 31,grabar,T07,TikTok + Reel,Guion para grabar · 25 s,2026-10/10-31_T07
-2026-11-01,Dom 1,17:30,STORY,Instagram + Facebook Stories,Renueva tu Book · 2 stories,2026-11/stories
-2026-11-01,Dom 1,19:00,R03,Instagram Reel + Facebook + TikTok,Reel · Renueva tu Book,2026-11/11-02_R03
-2026-11-04,Mié 4,12:30,STORY,Instagram + Facebook Stories,Reservar · Casa 1904 · 2 stories,2026-11/stories
-2026-11-04,Mié 4,19:10,P09,Instagram + Facebook,Hecho en B44 · febrero,2026-11/11-04_P09
-2026-11-05,Jue 5,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2 stories,2026-11/stories
-2026-11-05,Jue 5,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · 2 stories,2026-11/stories
-2026-11-05,Jue 5,19:10,P10,Instagram + Facebook,Brasa Brava · anuncio,2026-11/11-05_P10
-2026-11-07,Sáb 7,13:10,P11,Instagram + Facebook,Hecho en B44 · febrero,2026-11/11-07_P11
-2026-11-07,Sáb 7,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · 2 stories,2026-11/stories
-2026-11-09,Lun 9,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2 stories,2026-11/stories
-2026-11-09,Lun 9,14:30,R04,Instagram Reel + Facebook + TikTok,Reel · Brasa Brava,2026-11/11-09_R04
-2026-11-10,Mar 10,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · faltan 12 días · 2 stories,2026-11/stories
-2026-11-11,Mié 11,12:30,STORY,Instagram + Facebook Stories,Reservar · Casa Verde · 2 stories,2026-11/stories
-2026-11-11,Mié 11,19:10,P12,Instagram + Facebook,Renueva tu Book · carrusel,2026-11/11-11_P12
-2026-11-12,Jue 12,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2 stories,2026-11/stories
-2026-11-13,Vie 13,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · 2 stories,2026-11/stories
-2026-11-13,Vie 13,19:10,P13,Instagram + Facebook,Hecho en B44 · febrero,2026-11/11-13_P13
-2026-11-15,Dom 15,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · faltan 7 días · 2 stories,2026-11/stories
-2026-11-16,Lun 16,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2 stories,2026-11/stories
-2026-11-16,Lun 16,14:30,R05,Instagram Reel + Facebook + TikTok,Reel · ¿Tu book sigue siendo tú?,2026-11/11-16_R05
-2026-11-17,Mar 17,19:10,P14,Instagram + Facebook,Hecho en B44 · marzo · Marie Claire,2026-11/11-17_P14
-2026-11-18,Mié 18,12:30,STORY,Instagram + Facebook Stories,Reservar · daypass y scouting · 2 stories,2026-11/stories
-2026-11-18,Mié 18,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · faltan 4 días · 2 stories,2026-11/stories
-2026-11-19,Jue 19,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2 stories,2026-11/stories
-2026-11-19,Jue 19,19:10,P15,Instagram + Facebook,Brasa Brava · este domingo,2026-11/11-19_P15
-2026-11-20,Vie 20,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · faltan 2 días · 2 stories,2026-11/stories
-2026-11-21,Sáb 21,13:10,P16,Instagram + Facebook,Hecho en B44 · marzo · detrás de cámara,2026-11/11-21_P16
-2026-11-21,Sáb 21,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · mañana · 1 stories,2026-11/stories
-2026-11-22,Dom 22,09:30,STORY,Instagram + Facebook Stories,Brasa Brava · hoy · 1 stories,2026-11/stories
-2026-11-23,Lun 23,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2 stories,2026-11/stories
-2026-11-23,Lun 23,14:30,R06,Instagram Reel + Facebook + TikTok,Reel · Hecho en B44 · videoclip,2026-11/11-23_R06
-2026-11-25,Mié 25,12:30,STORY,Instagram + Facebook Stories,Reservar · Jardín y equipo · 2 stories,2026-11/stories
-2026-11-25,Mié 25,19:10,P17,Instagram + Facebook,Hecho en B44 · marzo,2026-11/11-25_P17
-2026-11-26,Jue 26,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2 stories,2026-11/stories
-2026-11-30,Lun 30,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2 stories,2026-11/stories
+2026-11-01,Dom 1,17:30,STORY,Instagram + Facebook Stories,Renueva tu Book · 2,2026-11/v2/stories
+2026-11-01,Dom 1,19:00,R03,Instagram Reel + Facebook + TikTok,Reel · Renueva tu Book,2026-11/v2/11-01_R03
+2026-11-02,Lun 2,09:00,STORY,Instagram + Facebook Stories,Daypass · hoy · 2,2026-11/v2/stories
+2026-11-02,Lun 2,13:00,N01,Instagram + Facebook + LinkedIn,Daypass,2026-11/v2/11-02_N01
+2026-11-03,Mar 3,12:30,STORY,Instagram + Facebook Stories,Reservar · Casa Verde · 2,2026-11/v2/stories
+2026-11-03,Mar 3,19:10,P09,Instagram + Facebook,Hecho en B44 · febrero,2026-11/v2/11-03_P09
+2026-11-04,Mié 4,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2,2026-11/v2/stories
+2026-11-04,Mié 4,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · anuncio · 2,2026-11/v2/stories
+2026-11-04,Mié 4,19:10,P10,Instagram + Facebook + LinkedIn,Brasa Brava · anuncio,2026-11/v2/11-04_P10
+2026-11-05,Jue 5,12:30,STORY,Instagram + Facebook Stories,Paquetes · 2,2026-11/v2/stories
+2026-11-05,Jue 5,19:10,N02,Instagram + Facebook + LinkedIn,Mid o Full Session,2026-11/v2/11-05_N02
+2026-11-06,Vie 6,12:30,STORY,Instagram + Facebook Stories,Mándanos tu proyecto · 1,2026-11/v2/stories
+2026-11-06,Vie 6,13:10,P11,Instagram + Facebook,Hecho en B44 · febrero,2026-11/v2/11-06_P11
+2026-11-06,Vie 6,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · 2,2026-11/v2/stories
+2026-11-07,Sáb 7,12:30,STORY,Instagram + Facebook Stories,Reservar · Casa Roja y scouting · 2,2026-11/v2/stories
+2026-11-07,Sáb 7,13:10,N03,Instagram + Facebook + LinkedIn,Casa Verde,2026-11/v2/11-07_N03
+2026-11-08,Dom 8,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2,2026-11/v2/stories
+2026-11-08,Dom 8,14:30,R04,Instagram Reel + Facebook + TikTok,Reel · Brasa Brava,2026-11/v2/11-08_R04
+2026-11-09,Lun 9,12:30,STORY,Instagram + Facebook Stories,Reservar · Jardín y equipo · 2,2026-11/v2/stories
+2026-11-09,Lun 9,19:10,N04,Instagram + Facebook,Casa Roja,2026-11/v2/11-09_N04
+2026-11-10,Mar 10,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · faltan 12 días · 2,2026-11/v2/stories
+2026-11-10,Mar 10,19:10,P12,Instagram + Facebook,Renueva tu Book · carrusel,2026-11/v2/11-10_P12
+2026-11-11,Mié 11,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2,2026-11/v2/stories
+2026-11-11,Mié 11,19:10,P13,Instagram + Facebook,Hecho en B44 · febrero,2026-11/v2/11-11_P13
+2026-11-12,Jue 12,12:30,STORY,Instagram + Facebook Stories,Reservar · Foro Garza · 2,2026-11/v2/stories
+2026-11-12,Jue 12,19:10,N05,Instagram + Facebook + LinkedIn,Foro Garza,2026-11/v2/11-12_N05
+2026-11-13,Vie 13,12:30,STORY,Instagram + Facebook Stories,Mándanos tu proyecto · 1,2026-11/v2/stories
+2026-11-13,Vie 13,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · 2,2026-11/v2/stories
+2026-11-13,Vie 13,19:10,P14,Instagram + Facebook + LinkedIn,Hecho en B44 · marzo · Marie Claire,2026-11/v2/11-13_P14
+2026-11-14,Sáb 14,12:30,STORY,Instagram + Facebook Stories,Daypass · este lunes · 2,2026-11/v2/stories
+2026-11-14,Sáb 14,13:10,N06,Instagram + Facebook,Conoce a Hazel,2026-11/v2/11-14_N06
+2026-11-15,Dom 15,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2,2026-11/v2/stories
+2026-11-15,Dom 15,14:30,R05,Instagram Reel + Facebook + TikTok,Reel · ¿Tu book sigue siendo tú?,2026-11/v2/11-15_R05
+2026-11-15,Dom 15,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · faltan 7 días · 2,2026-11/v2/stories
+2026-11-16,Lun 16,09:00,STORY,Instagram + Facebook Stories,Daypass · hoy · 2,2026-11/v2/stories
+2026-11-16,Lun 16,13:00,N07,Instagram + Facebook + LinkedIn,Daypass · ideas,2026-11/v2/11-16_N07
+2026-11-17,Mar 17,12:30,STORY,Instagram + Facebook Stories,Paquetes · 2,2026-11/v2/stories
+2026-11-17,Mar 17,19:10,P16,Instagram + Facebook + LinkedIn,Hecho en B44 · marzo · detrás de cámara,2026-11/v2/11-17_P16
+2026-11-18,Mié 18,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2,2026-11/v2/stories
+2026-11-18,Mié 18,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · faltan 4 días · 2,2026-11/v2/stories
+2026-11-18,Mié 18,19:10,P15,Instagram + Facebook,Brasa Brava · este domingo,2026-11/v2/11-18_P15
+2026-11-19,Jue 19,12:30,STORY,Instagram + Facebook Stories,Reservar · Casa Cristina · 2,2026-11/v2/stories
+2026-11-19,Jue 19,19:10,N08,Instagram + Facebook + LinkedIn,Casa Cristina,2026-11/v2/11-19_N08
+2026-11-20,Vie 20,12:30,STORY,Instagram + Facebook Stories,Mándanos tu proyecto · 1,2026-11/v2/stories
+2026-11-20,Vie 20,14:30,R06,Instagram Reel + Facebook + TikTok + LinkedIn,Reel · Hecho en B44 · videoclip,2026-11/v2/11-20_R06
+2026-11-20,Vie 20,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · faltan 2 días · 2,2026-11/v2/stories
+2026-11-21,Sáb 21,12:30,STORY,Instagram + Facebook Stories,Daypass · este lunes · 2,2026-11/v2/stories
+2026-11-21,Sáb 21,13:10,P17,Instagram + Facebook,Hecho en B44 · marzo,2026-11/v2/11-21_P17
+2026-11-21,Sáb 21,18:30,STORY,Instagram + Facebook Stories,Brasa Brava · mañana · 1,2026-11/v2/stories
+2026-11-22,Dom 22,09:30,STORY,Instagram + Facebook Stories,Brasa Brava · hoy · 1,2026-11/v2/stories
+2026-11-22,Dom 22,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2,2026-11/v2/stories
+2026-11-23,Lun 23,09:00,STORY,Instagram + Facebook Stories,Daypass · hoy · 2,2026-11/v2/stories
+2026-11-23,Lun 23,19:10,N09,Instagram + Facebook + LinkedIn,¿Paquete o membresía?,2026-11/v2/11-23_N09
+2026-11-24,Mar 24,12:30,STORY,Instagram + Facebook Stories,Reservar · Casa Verde · 2,2026-11/v2/stories
+2026-11-24,Mar 24,19:10,H06,Instagram + Facebook + LinkedIn,Hecho en B44 · marzo,2026-11/v2/11-24_H06
+2026-11-25,Mié 25,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2,2026-11/v2/stories
+2026-11-25,Mié 25,19:10,N10,Instagram + Facebook,Jardín,2026-11/v2/11-25_N10
+2026-11-26,Jue 26,12:30,STORY,Instagram + Facebook Stories,Reservar · Sala Marte · 2,2026-11/v2/stories
+2026-11-26,Jue 26,14:30,R07,Instagram Reel + Facebook + TikTok + LinkedIn,Reel · Hecho en B44 · danza,2026-11/v2/11-26_R07
+2026-11-27,Vie 27,12:30,STORY,Instagram + Facebook Stories,Mándanos tu proyecto · 1,2026-11/v2/stories
+2026-11-27,Vie 27,18:30,STORY,Instagram + Facebook Stories,Paquetes · 2,2026-11/v2/stories
+2026-11-27,Vie 27,19:10,N11,Instagram + Facebook + LinkedIn,Sala Marte,2026-11/v2/11-27_N11
+2026-11-28,Sáb 28,12:30,STORY,Instagram + Facebook Stories,Daypass · este lunes · 2,2026-11/v2/stories
+2026-11-28,Sáb 28,13:10,N12,Instagram + Facebook + LinkedIn,Workshops,2026-11/v2/11-28_N12
+2026-11-29,Dom 29,11:00,STORY,Instagram + Facebook Stories,Renueva tu Book · 2,2026-11/v2/stories
+2026-11-29,Dom 29,13:10,N13,Instagram + Facebook,Mándanos tu proyecto,2026-11/v2/11-29_N13
+2026-11-30,Lun 30,09:00,STORY,Instagram + Facebook Stories,Daypass · hoy · 2,2026-11/v2/stories
+2026-11-30,Lun 30,19:10,N14,Instagram + Facebook + LinkedIn,Diciembre,2026-11/v2/11-30_N14
