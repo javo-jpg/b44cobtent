@@ -45,3 +45,23 @@ Fija en este orden: P07, luego P01 y al final P08. Instagram muestra primero el 
 - Si un cliente ya nos invitó a colaborar en su post de una producción, no se repostea.
 - **Casa Roja:** solo fotos de la chimenea.
 - **Música:** Epidemic Sound. R01: Botox (Molife). R02: Moments (Ayoub). T01: The Plan (Heyson). T04: Lost in You (DJ Mayson).
+
+## Noviembre 2026
+
+Calendario completo en `calendario.csv`. Piezas en `2026-11/` (una carpeta por post con su `copy.txt`) y stories en `2026-11/stories/` (nombre = fecha_hora_orden).
+
+**Qué se promueve**
+- Renueva tu Book (Paquete Shoot Book 1, $6,000): stories lunes y jueves, 2 reels y 1 carrusel. Se agenda por DM o WhatsApp 55 3522 3320.
+- Brasa Brava con @ponchefmexico (domingo 22 nov, 12:00, 15 lugares, $600): anuncio, reel, "este domingo" y cuenta regresiva en stories. Se aparta por DM o WhatsApp.
+- Hecho en B44: sigue en orden cronológico (feb → mar 2026), sin repetir producciones que ya están en el perfil como colaboración.
+- Stories para reservar (miércoles): un espacio por semana y cómo reservar en b44.studio.
+
+**Reglas nuevas (1 nov)**
+- Nada de zoom ni paneos sobre fotos: el movimiento sale de video real. Las fotos solo entran como cortes secos.
+- Si el video del autor trae texto quemado, se recorta en un panel cuadrado que lo deja fuera; nunca se encima nuestro texto al suyo.
+- Zonas seguras. Reel: texto solo entre x 72–880 y y 270–1380. Story: y 250–1640. Post: márgenes de 96 px.
+- Las portadas de revista no se recortan ni llevan texto encima.
+- Los recortes usan detección de rostro para no cortar caras.
+- Todas las stories se publican solas desde Metricool: sin stickers. El llamado a la acción va escrito en la imagen.
+
+**Música (Epidemic Sound)**: R03 Constellations (Oakside) · R04 El Paraíso (Frontera Bugalú) · R05 sakura (bomull & Mizlo) · R06 Clever (Bankston).
